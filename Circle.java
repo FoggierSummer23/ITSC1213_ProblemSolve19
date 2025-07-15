@@ -26,8 +26,8 @@ public class Circle {
     }
     
     /**2nd constructor with given radius and color
-    * @param r    The radius of the circle
-    * @param clr   The color of the circle
+    * @param double    The radius of the circle
+    * @param Color   The color of the circle
     */
     public Circle(double r, Color clr) {
         radius = r;
